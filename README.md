@@ -3,6 +3,7 @@
 Hello I´m Cassiano Pereira
 </h1>
 - 🌱 I´m currently learning JavaScript, React e Node.js
+- 🌱 I like to study and watching animes
 
 <div align="center">
   <br />
