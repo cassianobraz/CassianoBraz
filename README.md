@@ -1,8 +1,8 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="28">
-Olá! Eu sou o Cassiano Pereira
+Hello I´m Cassiano Pereira
 </h1>
-- 🌱 Estudando JavaScript, React e Node.js
+- 🌱 I´m currently learning JavaScript, React e Node.js
 
 <div align="center">
   <br />
