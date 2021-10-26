@@ -2,8 +2,10 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="28">
 Hello I´m Cassiano Pereira
 </h1>
+
 - 🌱 I´m currently learning JavaScript, React e Node.js
-- 🌱 I like to study and watching animes
+
+- 🎬 I like to study and watching animes
 
 <div align="center">
   <br />
