@@ -9,9 +9,9 @@ Hello I´m Cassiano Pereira
 
 <div align="center">
   <br />
-  <a href="https://github.com/CassianoBraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassianoBraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoBraz&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/cassianobraz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassianobraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianobraz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Studying now
