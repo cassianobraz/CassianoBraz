@@ -2,7 +2,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width ="28">
 Hello I´m Cassiano Pereira
 </h1>
-
 - 🌱 I´m currently learning Python
 
 - 🎬 I like to study and watching animes
