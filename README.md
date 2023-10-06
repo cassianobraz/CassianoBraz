@@ -17,6 +17,21 @@ Hello I´m Cassiano Pereira
   <img align="center" alt="Cassiano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Cassiano-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
  </div>
+ 
+ #### Estatistícas
+
+<p align="center">
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusRodrigues11)](https://github.com/cassianobraz)
+
+</p>
+
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRodrigues11&layout=compact)](https://github.com/cassianobraz)
+
+</p>
+
 
 ## Reach me out 👇🏾
 
