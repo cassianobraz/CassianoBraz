@@ -6,7 +6,7 @@
 <p align="left"> 
 Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Back-end</strong>.
 
-Desenvolvedor Back-end apaixonado por transformar lógica em código e criar soluções eficientes. Especializado em Python e com um olhar analítico aguçado para Business Intelligence (BI) e SQL. 
+Apaixonado por transformar lógica em código e criar soluções eficientes. Especializado em Python e com um olhar analítico aguçado para Business Intelligence (BI) e SQL. 
 
 Vamos conectar e explorar maneiras de colaborar! Estou aberto a discussões, networking e colaborações em projetos interessantes. #DesenvolvedorBackEnd #Python #BusinessIntelligence #SQL.
 
