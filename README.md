@@ -4,7 +4,7 @@
 
 
 <p align="left"> 
-Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Desenvolvedor Back-end</strong>.
+Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Back-end</strong>.
 
 Desenvolvedor Back-end apaixonado por transformar lógica em código e criar soluções eficientes. Especializado em Python e com um olhar analítico aguçado para Business Intelligence (BI) e SQL. 
 
