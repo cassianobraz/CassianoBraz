@@ -11,6 +11,9 @@ Apaixonado por transformar lógica em código e criar soluções eficientes. Esp
 Vamos conectar e explorar maneiras de colaborar! Estou aberto a discussões, networking e colaborações em projetos interessantes. #DesenvolvedorBackEnd #Python #BusinessIntelligence #SQL.
 
 ##
+###
+####
+
 <h2 align="left">
 👻 Tecnologias:
 </h2>
