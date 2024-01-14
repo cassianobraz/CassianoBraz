@@ -10,9 +10,9 @@ Apaixonado por transformar lógica em código e criar soluções eficientes. Esp
 
 Vamos conectar e explorar maneiras de colaborar! Estou aberto a discussões, networking e colaborações em projetos interessantes. #DesenvolvedorBackEnd #Python #BusinessIntelligence #SQL.
 
-
+##
 <h2 align="left">
-👻 Tecnologias: 
+👻 Tecnologias:
 </h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +22,7 @@ Vamos conectar e explorar maneiras de colaborar! Estou aberto a discussões, net
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
