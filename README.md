@@ -8,11 +8,11 @@
 <br>
 Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Back-end</strong>.
 
-Desenvolvedor Back-end apaixonado por traduzir conceitos complexos em códigos eficientes. linguagem principal é Python, mergulhando no universo do front-end com destaque em Angular e React. Comprometido em criar soluções robustas e interfaces de usuário envolventes para proporcionar experiências digitais excepcionais. 🚀 #DesenvolvimentoDeSoftware #Python #Angular #React.
-
+<p align="justify">
+Desenvolvedor Back-end apaixonado por traduzir conceitos complexos em códigos eficientes. linguagem principal é Python, mergulhando no universo do front-end com destaque em Angular e React. Comprometido em criar soluções robustas e interfaces de usuário envolventes para proporcionar experiências digitais excepcionais. 🚀 #DesenvolvimentoDeSoftware #Python #Angular #React.  
+  
 Vamos conectar e explorar maneiras de colaborar! Estou aberto a discussões, networking e colaborações em projetos interessantes. #DesenvolvedorBackEnd #Python #BusinessIntelligence #SQL.
-
-
+</p>
 <br>
 
 <h2 align="left">
