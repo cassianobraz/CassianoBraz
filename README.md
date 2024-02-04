@@ -9,9 +9,7 @@
 Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Back-end</strong>.
 
 <p align="justify">
-Desenvolvedor Back-end apaixonado por traduzir conceitos complexos em códigos eficientes. linguagem principal é Python, mergulhando no universo do front-end com destaque em Angular e React. Comprometido em criar soluções robustas e interfaces de usuário envolventes para proporcionar experiências digitais excepcionais. 🚀 #DesenvolvimentoDeSoftware #Python #Angular #React.  
-  
-Vamos conectar e explorar maneiras de colaborar! Estou aberto a discussões, networking e colaborações em projetos interessantes. #DesenvolvedorBackEnd #Python #BusinessIntelligence #SQL.
+Desenvolvedor Full Stack apaixonado por inovação e impulsionado por desafios! Com experiência em React, Next.js, Angular, Node.js, Python e Django, estou sempre evoluindo para oferecer o melhor em soluções digitais. Da concepção à implementação, transformo ideias em produtos extraordinários que impactam positivamente. Aberto para conectar, expandir meu network e colaborar em projetos revolucionários que redefinem o futuro digital. Vamos criar algo extraordinário juntos! #DesenvolvedorFullStack #Inovação #React #Angular #Nodejs #Python #Django #Networking
 </p>
 <br>
 
