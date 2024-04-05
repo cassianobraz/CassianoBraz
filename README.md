@@ -9,7 +9,7 @@
 Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Back-end</strong>.
 
 <p align="justify">
-Desenvolvedor Full Stack apaixonado por inovação e impulsionado por desafios! Com experiência em React, Next.js, Node.js, Python e Django, estou sempre evoluindo para oferecer o melhor em soluções digitais. Da concepção à implementação, transformo ideias em produtos extraordinários que impactam positivamente. Aberto para conectar, expandir meu network e colaborar em projetos revolucionários que redefinem o futuro digital. Vamos criar algo extraordinário juntos! #DesenvolvedorFullStack #Inovação #React #Nodejs #Python #Django #Networking
+Desenvolvedor Full Stack apaixonado por inovação e impulsionado por desafios! Com experiência em React, Node.js, Python e Django, estou sempre evoluindo para oferecer o melhor em soluções digitais. Da concepção à implementação, transformo ideias em produtos extraordinários que impactam positivamente. Aberto para conectar, expandir meu network e colaborar em projetos revolucionários que redefinem o futuro digital. Vamos criar algo extraordinário juntos! #DesenvolvedorFullStack #Inovação #React #Nodejs #Python #Django #Networking
 </p>
 
 ## 🛠️ Skills
@@ -39,7 +39,6 @@ Desenvolvedor Full Stack apaixonado por inovação e impulsionado por desafios! 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white)
 
