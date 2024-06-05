@@ -6,7 +6,7 @@
 <p align="left"> 
   
 <br>
-Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Full Stack</strong>.
+Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.
 
 <p align="justify">
 O que me impulsiona é desafios! Com experiência em JavaScript, TypeScript, React, Node.js, Python e Django, estou sempre evoluindo para oferecer o melhor em soluções digitais. Da concepção à implementação, transformo ideias em produtos extraordinários que impactam positivamente. Aberto para conectar, expandir meu network e colaborar em projetos revolucionários que redefinem o futuro digital. Vamos criar algo extraordinário juntos! #DesenvolvedorFullStack #Inovação #React #Nodejs #Python #Django #Networking
