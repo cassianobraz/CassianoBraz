@@ -50,10 +50,9 @@ What drives me is challenges! With experience in JavaScript, TypeScript, React, 
 ### 🧪 Testing
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![vitest](https://img.shields.io/badge/Vitest-86b91a?style=for-the-badge&logo=vitest&logoColor=white)
 
-<p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
+###  💌 Contacts: ⤵️
 
 <a href="mailto:cassanopb@gmail.com" title="Email" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
