@@ -1,4 +1,4 @@
-## Oi, Meu nome é <strong>Cassiano</strong>! 👋
+## Hi, My name is <strong>Cassiano!</strong> 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -6,10 +6,10 @@
 <p align="left"> 
   
 <br>
-Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.
+I'm from Brazil, I'm 25 years old, and I'm a <strong>Fullstack Developer.</strong>
 
 <p align="justify">
-O que me impulsiona é desafios! Com experiência em JavaScript, TypeScript, React, Node.js, Python e Django, estou sempre evoluindo para oferecer o melhor em soluções digitais. Da concepção à implementação, transformo ideias em produtos extraordinários que impactam positivamente. Aberto para conectar, expandir meu network e colaborar em projetos revolucionários que redefinem o futuro digital. Vamos criar algo extraordinário juntos! #DesenvolvedorFullStack #Inovação #React #Nodejs #Python #Django #Networking
+What drives me is challenges! With experience in JavaScript, TypeScript, React, Node.js, Python, and Django, I'm constantly evolving to deliver the best in digital solutions. From conception to implementation, I turn ideas into extraordinary products that have a positive impact. I'm open to connect, expand my network, and collaborate on revolutionary projects that redefine the digital future. Let's create something extraordinary together! #FullStackDeveloper #Innovation #React #Nodejs #Python #Django #Networking
 </p>
 
 ## 🛠️ Skills
