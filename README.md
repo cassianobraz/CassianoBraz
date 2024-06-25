@@ -54,7 +54,7 @@ What drives me is challenges! With experience in JavaScript, TypeScript, React, 
 
 ###  💌 Contacts: ⤵️
 
-<a href="mailto:cassanopb@gmail.com" title="Email" target="_blank">
+<a href="mailto:cassianobraz.dev@gmail.com" title="Email" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <a href="https://www.instagram.com/cassano.rimas/" title="Instagram" target="_blank">
