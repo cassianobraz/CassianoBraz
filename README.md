@@ -32,6 +32,10 @@ What drives me is challenges! With experience in JavaScript, TypeScript, React, 
 <a href="#">
       <img alt="Pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=fff" />
 </a>
+<!-- PIP -->
+<a href="#">
+      <img alt="pip" src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
+</a>
 
 ### :computer: Front-End Development
 
