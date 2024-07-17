@@ -55,6 +55,7 @@ What drives me is challenges! With experience in JavaScript, TypeScript, React, 
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![vitest](https://img.shields.io/badge/Vitest-86b91a?style=for-the-badge&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-6DA55F?style=for-the-badge&logo=pytest&logoColor=white)
 
 ###  💌 Contacts: ⤵️
 
