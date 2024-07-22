@@ -99,7 +99,3 @@ What drives me is challenges! With experience in JavaScript, TypeScript, React, 
     />
   </a>
 </p>
-
-###
-
-<img src="https://raw.githubusercontent.com/cassianobraz/cassianobraz/output/snake.svg" alt="Snake animation" />
