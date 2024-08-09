@@ -6,7 +6,7 @@
 <p align="left"> 
   
 <br>
-I'm from Brazil, I'm 26 years old, and I'm a <strong>Software Engineer.</strong>
+I'm from Brazil, I'm 26 years old, and I'm a <strong>Full Stack Engineer.</strong>
 
 <p align="justify">
 What drives me is challenges! With experience in React, TypeScript, Vue.js, Node.js, Python and Django, I'm constantly evolving to deliver the best in digital solutions. From conception to implementation, I turn ideas into extraordinary products that have a positive impact. I'm open to connect, expand my network, and collaborate on revolutionary projects that redefine the digital future. Let's create something extraordinary together! #FullStackDeveloper #Innovation #React #Vuejs #Nodejs #Python #Django #Networking
