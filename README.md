@@ -9,7 +9,7 @@
 I'm from Brazil, I'm 26 years old, and I'm a <strong>Full Stack Engineer.</strong>
 
 <p align="justify">
-What drives me is challenges! With experience in React, TypeScript, Vue, Node, Nest, Python and Flask, I'm constantly evolving to deliver the best in digital solutions. From conception to implementation, I turn ideas into extraordinary products that have a positive impact. I'm open to connect, expand my network, and collaborate on revolutionary projects that redefine the digital future. Let's create something extraordinary together! #FullStackDeveloper #Innovation #React #Vue #Node #Nest #Python #Flask #Networking
+With over a year of solid experience as a Full Stack Engineer, I specialize in JavaScript and TypeScript. My backend expertise includes Python (Flask) and Node.js (Express, Fastify), while on the frontend, I excel with React, Vue, and Tailwind CSS. I am passionate about developing innovative and efficient solutions, thriving in collaborative and agile environments. I'm eager to contribute to the team's success and create something extraordinary. Let's build something amazing together! #FullStackDeveloper #Innovation #React #Vue #Node #Nest #Python #Flask #Networking
 </p>
 
 ## 🛠️ Skills
