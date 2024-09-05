@@ -9,7 +9,7 @@
 I'm from Brazil, I'm 26 years old, and I'm a <strong>Full Stack Engineer.</strong>
 
 <p align="justify">
-What drives me is challenges! With experience in React, TypeScript, Vue, Node, Nest, Python and Django, I'm constantly evolving to deliver the best in digital solutions. From conception to implementation, I turn ideas into extraordinary products that have a positive impact. I'm open to connect, expand my network, and collaborate on revolutionary projects that redefine the digital future. Let's create something extraordinary together! #FullStackDeveloper #Innovation #React #Vue #Node #Nest #Python #Django #Networking
+What drives me is challenges! With experience in React, TypeScript, Vue, Node, Nest, Python and Flask, I'm constantly evolving to deliver the best in digital solutions. From conception to implementation, I turn ideas into extraordinary products that have a positive impact. I'm open to connect, expand my network, and collaborate on revolutionary projects that redefine the digital future. Let's create something extraordinary together! #FullStackDeveloper #Innovation #React #Vue #Node #Nest #Python #Flask #Networking
 </p>
 
 ## 🛠️ Skills
@@ -39,7 +39,7 @@ What drives me is challenges! With experience in React, TypeScript, Vue, Node, N
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
