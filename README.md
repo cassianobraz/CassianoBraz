@@ -1,4 +1,4 @@
-## Hi, My name is <strong>Cassiano!</strong> 👋
+Olá, meu nome é <strong>Cassiano!</strong> 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -6,10 +6,10 @@
 <p align="left"> 
   
 <br>
-I'm from Brazil, I'm 26 years old, and I'm a <strong>Full Stack Engineer.</strong>
+Profissional brasileiro de 26 anos, atuando como <strong>Engenheiro Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
 
 <p align="justify">
-With over a year of solid experience as a Full Stack Engineer, I specialize in JavaScript and TypeScript. My backend expertise includes Python (Flask) and Node.js (Express, Fastify), while on the frontend, I excel with React, Vue, and Tailwind CSS. I am passionate about developing innovative and efficient solutions, thriving in collaborative and agile environments. I'm eager to contribute to the team's success and create something extraordinary. Let's build something amazing together! #FullStackDeveloper #Innovation #React #Vue #Node #Nest #Python #Flask #Networking
+Com mais de um ano de experiência como Full Stack Engineer, sou especializado em JavaScript, TypeScript e PHP. No backend, trabalho com Python (Flask) e Node.js (Express, Fastify), e no frontend, tenho forte domínio em React, Vue e Tailwind CSS. Apaixonado por soluções inovadoras e eficientes, valorizo a colaboração em ambientes ágeis e focados em resultados. Pronto para contribuir com o sucesso do time e entregar projetos impactantes.
 </p>
 
 ## 🛠️ Skills
