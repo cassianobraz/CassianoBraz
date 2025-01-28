@@ -6,7 +6,7 @@ Olá, meu nome é <strong>Cassiano!</strong> 👋
 <p align="left"> 
   
 <br>
-Profissional brasileiro de 26 anos, atuando como <strong>Engenheiro Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
+Profissional brasileiro de 26 anos, atuando como <strong>Desenvolvedor Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
 
 <p align="justify">
 Com mais de um ano de experiência como Full Stack Engineer, sou especializado em JavaScript, TypeScript e PHP. No backend, trabalho com Python (Flask) e Node.js (Express, Fastify), e no frontend, tenho forte domínio em React, Vue e Tailwind CSS. Apaixonado por soluções inovadoras e eficientes, valorizo a colaboração em ambientes ágeis e focados em resultados. Pronto para contribuir com o sucesso do time e entregar projetos impactantes.
