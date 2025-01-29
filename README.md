@@ -9,7 +9,9 @@ Olá, meu nome é <strong>Cassiano!</strong> 👋
 Profissional brasileiro de 26 anos, atuando como <strong>Desenvolvedor Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
 
 <p align="justify">
-Com mais de um ano de experiência como Full Stack Engineer, sou especializado em JavaScript, TypeScript e PHP. No backend, trabalho com Python (Flask) e Node.js (Express, Fastify), e no frontend, tenho forte domínio em React, Vue e Tailwind CSS. Apaixonado por soluções inovadoras e eficientes, valorizo a colaboração em ambientes ágeis e focados em resultados. Pronto para contribuir com o sucesso do time e entregar projetos impactantes.
+Apaixonado por desenvolvimento de software e soluções escaláveis, tenho experiência na construção de APIs e integrações backend, atuando com Node.js, PHP, JavaScript e TypeScript. Atualmente, estou aprimorando minhas habilidades em Vue e desenvolvimento Full Stack, buscando sempre novas formas de otimizar aplicações e resolver problemas com eficiência.
+
+Motivado por desafios, quero contribuir em projetos inovadores, aprender com equipes experientes e crescer como desenvolvedor.
 </p>
 
 ## 🛠️ Skills
