@@ -38,8 +38,7 @@ Motivado por desafios, quero contribuir em projetos inovadores, aprender com equ
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -49,7 +48,6 @@ Motivado por desafios, quero contribuir em projetos inovadores, aprender com equ
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![vitest](https://img.shields.io/badge/Vitest-86b91a?style=for-the-badge&logo=vitest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-6DA55F?style=for-the-badge&logo=pytest&logoColor=white)
 
 ###  💌 Contacts: ⤵️
 
