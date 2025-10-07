@@ -6,7 +6,7 @@ Olá, meu nome é <strong>Cassiano!</strong> 👋
 <p align="left"> 
   
 <br>
-Profissional brasileiro de 26 anos, atuando como <strong>Desenvolvedor Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
+Profissional brasileiro de 27 anos, atuando como <strong>Desenvolvedor Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
 
 <p align="justify">
 Apaixonado por desenvolvimento de software e soluções escaláveis, tenho experiência na construção de APIs e integrações backend, atuando com Node.js, C#, JavaScript e TypeScript. Atualmente, estou aprimorando minhas habilidades em Vue e desenvolvimento Full Stack, buscando sempre novas formas de otimizar aplicações e resolver problemas com eficiência.
