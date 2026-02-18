@@ -48,6 +48,7 @@ Motivado por desafios, quero contribuir em projetos inovadores, aprender com equ
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![vitest](https://img.shields.io/badge/Vitest-86b91a?style=for-the-badge&logo=vitest&logoColor=white)
+![xunit](https://img.shields.io/badge/xUnit.net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ###  💌 Contacts: ⤵️
 
