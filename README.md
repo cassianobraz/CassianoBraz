@@ -68,21 +68,7 @@ Motivado por desafios, quero contribuir em projetos inovadores, aprender com equ
   <tr>
     <td>
       <img
-        align="left"
-         src="https://github-readme-stats.vercel.app/api?username=cassianobraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianobraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=cassianobraz&theme=dark&hide_border=false"
         alt="Github stats"
       />
