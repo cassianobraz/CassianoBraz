@@ -71,7 +71,7 @@ Motivado por desafios, quero contribuir em projetos inovadores, aprender com equ
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=cassianobraz&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=CassianoBraz&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
