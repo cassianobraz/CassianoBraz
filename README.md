@@ -3,16 +3,23 @@ Olá, meu nome é <strong>Cassiano!</strong> 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-<p align="left"> 
-  
-<br>
-Profissional brasileiro, atuando como <strong>Desenvolvedor Full Stack</strong> especializado em desenvolvimento de soluções inovadoras e eficientes.
+<p align="left">
+  🇧🇷 Desenvolvedor Full Stack com foco em Back-end
+</p>
 
 <p align="justify">
-Apaixonado por desenvolvimento de software e soluções escaláveis, tenho experiência na construção de APIs e integrações backend, atuando com .NET, C# e Node.js com TypeScript. Atualmente, estou aprimorando minhas habilidades com react native, buscando sempre novas formas de otimizar aplicações e resolver problemas com eficiência.
+Apaixonado por desenvolvimento de software e soluções escaláveis, atuo principalmente com <strong>C# e .NET</strong>, desenvolvendo APIs REST, microsserviços e integrações para sistemas corporativos.
 
-Motivado por desafios, quero contribuir em projetos inovadores, aprender com equipes experientes e crescer como desenvolvedor.
+Possuo experiência com <strong>Node.js e TypeScript</strong>, bancos de dados relacionais (<strong>SQL Server, PostgreSQL e SQLite</strong>) e NoSQL (<strong>MongoDB e Redis</strong>), além de conteinerização com <strong>Docker</strong>.
+
+Tenho interesse em arquitetura de software, boas práticas, testes automatizados, mensageria e desenvolvimento de aplicações de alta performance.
+
+Atualmente, estou aprofundando meus conhecimentos na linguagem <strong>Go (Golang)</strong>, expandindo minha experiência em desenvolvimento back-end e explorando novas abordagens para construir aplicações performáticas e escaláveis.
+
+Sou motivado por desafios, aprendizado contínuo e pela oportunidade de contribuir com projetos inovadores, entregando soluções de qualidade e gerando valor para as equipes e negócios.
+
 </p>
+
 
 ## 🛠️ Skills
 
